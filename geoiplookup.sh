@@ -1,4 +1,5 @@
 #!/bin/bash
+#prerequisite: geoip package
 
 cat /home/morpheus/iplist.txt | awk &#39;{print $Z}&#39; &gt; ipformat.txt
 
