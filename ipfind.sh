@@ -1,6 +1,6 @@
 #!/bin/bash
-val=mta
-sale=.salespush.net
+val=domain
+sale=.domain.net
 for value in {1..100}
 do
 
